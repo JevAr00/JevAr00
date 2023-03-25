@@ -23,9 +23,6 @@ New things I want to add to my playlist:
   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/go.svg" height="48" width="48"/>
 </p>
 
-<h3>About my thoughts</h3>
-Research, continue learning and eat a candy when things get complicated.
-</br>
 
 </br></br>
 Do you want to know a bit more about me?
